@@ -1,7 +1,7 @@
 # MLDA_Gruppenwerk
 
 ## Optionales, weiteres
-- [ ] Nach Skewed Classes schauen
+- Nach Skewed Classes schauen
 
 # Schritte
 ## 1. Visualisierung des Datensatzes
