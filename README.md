@@ -2,15 +2,18 @@
 ## To DO
 - Was sagen die Zahlen überhaupt aus?
   - Wir treffen eine Annahme und nennen die, dann arbeiten wir damit weiter
-    - Annahme: USA, Kosten für ein Jahr
+    - Annahme:
+    - USA (Buch)
+    - Children sind mitversichert (laut Buch) -> ggf Normalisierungen (Da Kinder vllt unterschiedlich viel kosten)
+  - Wir schauen mal ins Buch....
 - Für jede Klasse, die mehrere Ausprägungen hat, jede Klasse einzeln visualisieren (zB Anzahl Kinder. Bild für 0,1,2 usw Kinder)
+
 ## Optionales, weiteres
 - Nach Skewed Classes schauen
 - Für Abgabe: Zeitreihe ist mögliche Erweiterung
 
 ## Ziele des Ganzen
 - Eventuell eine Zeitreihe mit prognostizierten Kosten der neuen Person
-- 
 
 # Schritte
 ## 1. Visualisierung und Erklärung des Datensatzes
