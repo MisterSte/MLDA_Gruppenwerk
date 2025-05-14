@@ -25,3 +25,6 @@
 ## 3. Modell(e) trainieren
 - Linear Regression
 - Decision Tree
+
+
+## 4. Validation der Modelle
