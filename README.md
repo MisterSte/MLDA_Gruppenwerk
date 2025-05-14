@@ -3,7 +3,7 @@
 - Was sagen die Zahlen überhaupt aus?
   - Wir treffen eine Annahme und nennen die, dann arbeiten wir damit weiter
     - Annahme: USA, Kosten für ein Jahr
-
+- Für jede Klasse, die mehrere Ausprägungen hat, jede Klasse einzeln visualisieren (zB Anzahl Kinder. Bild für 0,1,2 usw Kinder)
 ## Optionales, weiteres
 - Nach Skewed Classes schauen
 - Für Abgabe: Zeitreihe ist mögliche Erweiterung
