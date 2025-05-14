@@ -1,6 +1,8 @@
 # MLDA_Gruppenwerk
 ## To DO
 - Was sagen die Zahlen überhaupt aus?
+  - Wir treffen eine Annahme und nennen die, dann arbeiten wir damit weiter
+    - Annahme: USA, Kosten für ein Jahr
 
 ## Optionales, weiteres
 - Nach Skewed Classes schauen
