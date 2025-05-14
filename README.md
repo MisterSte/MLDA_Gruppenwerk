@@ -1,7 +1,10 @@
 # MLDA_Gruppenwerk
+## To DO
+- Was sagen die Zahlen überhaupt aus?
 
 ## Optionales, weiteres
 - Nach Skewed Classes schauen
+- Für Abgabe: Zeitreihe ist mögliche Erweiterung
 
 ## Ziele des Ganzen
 - Eventuell eine Zeitreihe mit prognostizierten Kosten der neuen Person
@@ -28,3 +31,4 @@
 
 
 ## 4. Validation der Modelle
+- CV
