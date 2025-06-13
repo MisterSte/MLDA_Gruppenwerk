@@ -3,9 +3,9 @@ import numpy as np
 def triangle_multi_mask(corr_matrix, mask_threshold:float):
     """
 
-    :param corr_matrix:
-    :param mask_threshold:
-    :return:
+    :param corr_matrix: df.corr() object
+    :param mask_threshold: float
+    :return: multi-layer mask for triangle view of correlation matrixes
     """
 
     # np.triu = Triangle Upper. Also nur das obere Dreieck wird hier mit dem Ones_like Array gefüllt
