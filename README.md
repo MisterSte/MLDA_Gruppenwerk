@@ -5,5 +5,5 @@ Anaconda venv
 Um den Notebook server mit einem gegebenen token zu starten, 
 kann folgender Befehl ausgeführt werden:
 ```bash
-jupyter notebook --NotebookApp.token=development_toke_12345
+jupyter notebook --NotebookApp.token=development_token_12345
 ```
